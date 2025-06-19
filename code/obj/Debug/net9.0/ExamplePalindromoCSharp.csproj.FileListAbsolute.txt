@@ -1,0 +1,12 @@
+C:\GIT\Projetos\ExamplePalindromoC#\code\bin\Debug\net9.0\ExamplePalindromoCSharp.deps.json
+C:\GIT\Projetos\ExamplePalindromoC#\code\bin\Debug\net9.0\ExamplePalindromoCSharp.dll
+C:\GIT\Projetos\ExamplePalindromoC#\code\bin\Debug\net9.0\ExamplePalindromoCSharp.pdb
+C:\GIT\Projetos\ExamplePalindromoC#\code\obj\Debug\net9.0\ExamplePalindromoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Projetos\ExamplePalindromoC#\code\obj\Debug\net9.0\ExamplePalindromoCSharp.AssemblyInfoInputs.cache
+C:\GIT\Projetos\ExamplePalindromoC#\code\obj\Debug\net9.0\ExamplePalindromoCSharp.AssemblyInfo.cs
+C:\GIT\Projetos\ExamplePalindromoC#\code\obj\Debug\net9.0\ExamplePalindromoCSharp.csproj.CoreCompileInputs.cache
+C:\GIT\Projetos\ExamplePalindromoC#\code\obj\Debug\net9.0\ExamplePalindromoCSharp.sourcelink.json
+C:\GIT\Projetos\ExamplePalindromoC#\code\obj\Debug\net9.0\ExamplePalindromoCSharp.dll
+C:\GIT\Projetos\ExamplePalindromoC#\code\obj\Debug\net9.0\refint\ExamplePalindromoCSharp.dll
+C:\GIT\Projetos\ExamplePalindromoC#\code\obj\Debug\net9.0\ExamplePalindromoCSharp.pdb
+C:\GIT\Projetos\ExamplePalindromoC#\code\obj\Debug\net9.0\ref\ExamplePalindromoCSharp.dll
